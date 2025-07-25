@@ -1,8 +1,0 @@
-# Node.js
-node_modules/
-.env
-.DS_Store
-
-# Build output
-frontend/build/
-backend/build/
